@@ -72,7 +72,7 @@ Create/Upload your code in folder following the convention `Add Code Here`
 - Below is `an example` to add file properly
 - You can follow up `any languages`
 ```
-Add Code Here/PYTHON/<YOUR-FILERNAME>.py
+Add Code Here/Dart/<YOUR-FILERNAME>.dart
 ```
 ```
 Add Code Here/C++/<YOUR-FILERNAME>.cpp
@@ -83,7 +83,7 @@ You can follow any pathway a `code` or `profile information`
 
 ## 5. Celebrate - you've done your first pull request!!!!!
 
-```py
+```Dart
 Always make more then 4 pull requests.
 Lets say you have made only 4 pull request to different projects,
 but one project is excluded from hackoctoberfest event then your pull request will not be counted and 
@@ -95,7 +95,7 @@ keep in mind that repo has hacktoberfest topic..
 
 ## + Follow Me : } Quick Approval of Pull Request
 
-```py
+```Dart
 To get approval of the pull request much quicker and faster (`Follow Me`)🚀
 ```
 
